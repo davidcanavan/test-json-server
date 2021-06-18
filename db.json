@@ -1,7 +1,5 @@
 {
   "nGramData": [
-    {"string": "abcdabxe", "n": 2},
-    {"string": "fedghghjjj", "n": 1},
-    {"string": "fedghghjjj", "n": 2}
+    {"string": "abcdabxe", "n": 2}
   ]
 }
