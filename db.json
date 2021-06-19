@@ -4,6 +4,9 @@
     {"string": "fedghghjjj", "n": 1},
     {"string": "fedghghjjj", "n": 2}
   ],
+  nGramResponseData: {
+    "values": [1,2,3,4]
+  },
   "integerSummationData": [
     {"n": 15, "integerList": [1, 6, 13, 7, 2, 8]},
     {"n": -10, "integerList": [9, 0, 10]},
